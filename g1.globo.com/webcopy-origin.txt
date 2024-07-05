@@ -1,0 +1,1592 @@
+Uri: https://g1.globo.com/sp/sao-paulo/noticia/2023/07/04/ze-celso-e-internado-apos-incendio-atingir-apartamento-onde-mora-em-sp.ghtml
+File Name: C:\Downloaded Web Sites\g1.globo.com\sp\sao-paulo\noticia\2023\07\04\ze-celso-e-internado-apos-incendio-atingir-apartamento-onde-mora-em-sp.ghtml.html
+Content Type: text/html
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-bold-normal.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-bold-normal.woff2.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-bold-italic.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-bold-italic.woff2.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-bold-italic.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-bold-italic.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-regular-italic.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-regular-italic.woff2.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-regular-italic.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-regular-italic.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-light-normal.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-light-normal.woff2.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-light-normal.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-light-normal.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-light-italic.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-light-italic.woff2.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-light-italic.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-light-italic.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-regular-normal.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-regular-normal.woff2.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-regular-normal.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-regular-normal.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-semibold-normal.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-semibold-normal.woff2.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-semibold-normal.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-semibold-normal.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-semibold-italic.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-semibold-italic.woff2.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-semibold-italic.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-semibold-italic.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/light.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\light.woff2
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/light.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\light.woff
+Content Type: application/font-woff
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/light.ttf
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\light.ttf
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/regular.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/regular.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\regular.woff
+Content Type: application/font-woff
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/regular.ttf
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/semibold.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\semibold.woff2
+Content Type: application/font-woff2
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/semibold.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\semibold.woff.json
+Content Type: application/json
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/semibold.ttf
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\semibold.ttf.json
+Content Type: application/json
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/bold.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/bold.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\bold.woff
+Content Type: application/font-woff
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/bold.ttf
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/bold.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\bold.woff2
+Content Type: application/font-woff2
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/bold.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\bold.woff
+Content Type: application/font-woff
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/bold.ttf
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/regular.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/regular.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\regular.woff
+Content Type: application/font-woff
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/regular.ttf
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/light.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\light.woff2
+Content Type: application/font-woff2
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/light.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\light.woff
+Content Type: application/font-woff
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/light.ttf
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\light.ttf
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/fb/v2/fb.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\fb\v2\fb.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/twitter/v2/twitter.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\twitter\v2\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/whatsapp/v2/whatsapp.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\whatsapp\v2\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/linkedin/v2/linkedin.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\linkedin\v2\linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/telegram/v2/telegram.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\telegram\v2\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/pinterest/v2/pinterest.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\pinterest\v2\pinterest.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/koo/v2/koo.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\koo\v2\koo.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/system/v2/system.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\system\v2\system.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_f75bb4776e3c4683acd769d47144995f/img/uikit/icons/expand/v1/expand_down.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_f75bb4776e3c4683acd769d47144995f\img\uikit\icons\expand\v1\expand_down.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/fb/v2/fb_inv.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\fb\v2\fb_inv.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/twitter/v2/twitter_inv.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\twitter\v2\twitter_inv.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/whatsapp/v2/whatsapp_inv.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\whatsapp\v2\whatsapp_inv.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/linkedin/v2/linkedin_inv.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\linkedin\v2\linkedin_inv.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/telegram/v2/telegram_inv.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\telegram\v2\telegram_inv.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/pinterest/v2/pinterest_inv.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\pinterest\v2\pinterest_inv.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/system/v2/system_inv.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\system\v2\system_inv.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/quote/quote-2023.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\quote\quote-2023.svg
+Content Type: image/svg+xml
+
+Uri: https://s2.glbimg.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index.htm.txt
+Content Type: text/plain
+
+Uri: https://tags.tiqcdn.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index.htm
+Content Type: text/html
+
+Uri: https://horizon.globo.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index.htm.json
+Content Type: application/json
+
+Uri: https://horizon-schemas.globo.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index.htm-1.json
+Content Type: application/json
+
+Uri: https://horizon-track.globo.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index.htm-2.json
+Content Type: application/json
+
+Uri: https://s03.video.glbimg.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index.htm.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.ampproject.org/v0.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0.js
+Content Type: text/javascript
+
+Uri: https://s2-g1.glbimg.com/t2_E-_cSErv4fsbUVhwwEN0YMX0=/32x32/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\t2_E-_cSErv4fsbUVhwwEN0YMX0=\32x32\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/7_CSJ0a2BppGqptPkB7fE1Hacok=/128x128/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\7_CSJ0a2BppGqptPkB7fE1Hacok=\128x128\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/szHLoTRvs6YWm9NNieGM7KU2eEE=/152x152/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\szHLoTRvs6YWm9NNieGM7KU2eEE=\152x152\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/SU2Z6rs9rolyarVbXBSjaN6J0Jw=/167x167/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\SU2Z6rs9rolyarVbXBSjaN6J0Jw=\167x167\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/S1o7u7ulLX54NM6X_pRUSid8yXg=/180x180/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\S1o7u7ulLX54NM6X_pRUSid8yXg=\180x180\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/ANFXvAeR8V-2tbOMMP9tc2qFqJA=/192x192/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\ANFXvAeR8V-2tbOMMP9tc2qFqJA=\192x192\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/LsuKXSXhHyq6vHO3DX_fXzijkCg=/196x196/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\LsuKXSXhHyq6vHO3DX_fXzijkCg=\196x196\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/GpmOCEG_6A1NUKWKtbzFpijsyR0=/57x57/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\GpmOCEG_6A1NUKWKtbzFpijsyR0=\57x57\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/ntE_GO6uMpnPlZ2uD5ueQavJQNE=/72x72/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\ntE_GO6uMpnPlZ2uD5ueQavJQNE=\72x72\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/aFlLEuzGSYw2KtjvARZnCsFtgnk=/114x114/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\aFlLEuzGSYw2KtjvARZnCsFtgnk=\114x114\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://ge.globo.com/futebol/brasileirao-serie-a/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\brasileirao-serie-a\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/copa-america/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\copa-america\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/eurocopa/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\eurocopa\index.htm
+Content Type: text/html
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/f0b43eb7-fd5b-4362-8989-7347f721f24c/e8b06e29-93d6-49ab-956b-ff2c6d3a77ba.css
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\f0b43eb7-fd5b-4362-8989-7347f721f24c\e8b06e29-93d6-49ab-956b-ff2c6d3a77ba.css
+Content Type: text/css
+
+Uri: https://minhaconta.globo.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index-1.htm
+Content Type: text/html
+
+Uri: https://s3.glbimg.com/v1/AUTH_89c6d9f49eec4e768bc6ccddcb31a34b/lgpd-lib/lgpd-lib.min.css
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_89c6d9f49eec4e768bc6ccddcb31a34b\lgpd-lib\lgpd-lib.min.css
+Content Type: text/css
+
+Uri: https://estuda.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index-2.htm
+Content Type: text/html
+
+Uri: https://especiais.g1.globo.com/educacao/enem/2023/simula/
+File Name: C:\Downloaded Web Sites\g1.globo.com\educacao\enem\2023\simula\index.htm
+Content Type: text/html
+
+Uri: http://especiais.g1.globo.com/educacao/guia-de-carreiras/2017/teste-vocacional/
+File Name: C:\Downloaded Web Sites\g1.globo.com\educacao\guia-de-carreiras\2017\teste-vocacional\index.htm
+Content Type: text/html
+
+Uri: https://assinecoquetel.com.br/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index-3.htm
+Content Type: text/html
+
+Uri: http://especiais.g1.globo.com/rio-de-janeiro/2018/fora-do-ponto-linhas-de-onibus/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rio-de-janeiro\2018\fora-do-ponto-linhas-de-onibus\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/inter-tv-rural/t/2wq5ycwpZJ/
+File Name: C:\Downloaded Web Sites\g1.globo.com\inter-tv-rural\t\2wq5ycwpZJ\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/tem-noticias-1a-edicao-sorocabajundiai/t/dq5QYLkhzb/
+File Name: C:\Downloaded Web Sites\g1.globo.com\tem-noticias-1a-edicao-sorocabajundiai\t\dq5QYLkhzb\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-da-eptv-2a-edicao-campinaspiracicaba/t/jkhGNpqtrV/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-da-eptv-2a-edicao-campinaspiracicaba\t\jkhGNpqtrV\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-regiao/t/Y2kWkCQgZk/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-regiao\t\Y2kWkCQgZk\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-cidade-sao-carlosararaquara/t/DxmBff9wQ8/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-cidade-sao-carlosararaquara\t\DxmBff9wQ8\index.htm
+Content Type: text/html
+
+Uri: https://memoriaglobo.globo.com/jornalismo/jornalismo-e-telejornais/fantastico/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornalismo\jornalismo-e-telejornais\fantastico\index.htm
+Content Type: text/html
+
+Uri: https://colabore.apps.globo.com/campanha/817
+File Name: C:\Downloaded Web Sites\g1.globo.com\campanha\817.html
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/globo-reporter/t/wh8cdfztm7/?origemId=1778&utm_source=globo_reporter&utm_medium=menu_video&utm_campaign=globo_reporter&utm_term=telejornal&utm_content=aq-organica
+File Name: C:\Downloaded Web Sites\g1.globo.com\globo-reporter\t\wh8cdfztm7\index.htm
+Content Type: text/html
+
+Uri: http://especiais.g1.globo.com/economia/agronegocios/globo-rural/guia-do-globo-rural/
+File Name: C:\Downloaded Web Sites\g1.globo.com\economia\agronegocios\globo-rural\guia-do-globo-rural\index.htm
+Content Type: text/html
+
+Uri: https://memoriaglobo.globo.com/jornalismo/jornalismo-e-telejornais/globo-rural/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornalismo\jornalismo-e-telejornais\globo-rural\index.htm
+Content Type: text/html
+
+Uri: https://colabore.apps.globo.com/campanha/73
+File Name: C:\Downloaded Web Sites\g1.globo.com\campanha\73.html
+Content Type: text/html
+
+Uri: https://memoriaglobo.globo.com/jornalismo/jornalismo-e-telejornais/hora-um/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornalismo\jornalismo-e-telejornais\hora-um\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/hora-1/t/6hFGwSjpPH/?origemId=1778&utm_source=hora1&utm_medium=menu_video&utm_campaign=hora1&utm_term=telejornal&utm_content=aq-organica
+File Name: C:\Downloaded Web Sites\g1.globo.com\hora-1\t\6hFGwSjpPH\index.htm
+Content Type: text/html
+
+Uri: https://colabore.apps.globo.com/campanha/870
+File Name: C:\Downloaded Web Sites\g1.globo.com\campanha\870.html
+Content Type: text/html
+
+Uri: https://memoriaglobo.globo.com/jornalismo/jornalismo-e-telejornais/jornal-da-globo/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornalismo\jornalismo-e-telejornais\jornal-da-globo\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-da-globo/t/HxbxWLmmRz/?origemId=1778&utm_source=jornal_da_globo&utm_medium=menu_video&utm_campaign=jornal_da_globo&utm_term=telejornal&utm_content=aq-organica
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-da-globo\t\HxbxWLmmRz\index.htm
+Content Type: text/html
+
+Uri: https://colabore.apps.globo.com/campanha/834
+File Name: C:\Downloaded Web Sites\g1.globo.com\campanha\834.html
+Content Type: text/html
+
+Uri: https://memoriaglobo.globo.com/jornalismo/jornalismo-e-telejornais/jornal-hoje/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornalismo\jornalismo-e-telejornais\jornal-hoje\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-hoje/t/KLqhpkkZ5d/?origemId=1778&utm_source=jornal_hoje&utm_medium=menu_video&utm_campaign=jornal_hoje&utm_term=telejornal&utm_content=aq-organica
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-hoje\t\KLqhpkkZ5d\index.htm
+Content Type: text/html
+
+Uri: https://colabore.apps.globo.com/campanha/835
+File Name: C:\Downloaded Web Sites\g1.globo.com\campanha\835.html
+Content Type: text/html
+
+Uri: https://memoriaglobo.globo.com/jornalismo/jornalismo-e-telejornais/jornal-nacional/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornalismo\jornalismo-e-telejornais\jornal-nacional\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-nacional/t/MyCrVrr6gW/?origemId=1778&utm_source=jornal_nacional&utm_medium=menu_video&utm_campaign=jornal_nacional&utm_term=telejornal&utm_content=aq-organica
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-nacional\t\MyCrVrr6gW\index.htm
+Content Type: text/html
+
+Uri: https://colabore.apps.globo.com/campanha/836
+File Name: C:\Downloaded Web Sites\g1.globo.com\campanha\836.html
+Content Type: text/html
+
+Uri: https://revistapegn.globo.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index-5.htm
+Content Type: text/html
+
+Uri: https://memoriaglobo.globo.com/jornalismo/jornalismo-e-telejornais/pequenas-empresas-grandes-negocios/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornalismo\jornalismo-e-telejornais\pequenas-empresas-grandes-negocios\index.htm
+Content Type: text/html
+
+Uri: https://colabore.apps.globo.com/campanha/826
+File Name: C:\Downloaded Web Sites\g1.globo.com\campanha\826.html
+Content Type: text/html
+
+Uri: https://memoriaglobo.globo.com/jornalismo/jornalismo-e-telejornais/profissao-reporter/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornalismo\jornalismo-e-telejornais\profissao-reporter\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/profissao-reporter/t/m9k2cnjw1D/?origemId=1778&utm_source=profissao_reporter&utm_medium=menu_video&utm_campaign=profissao_reporter&utm_term=telejornal&utm_content=aq-organica
+File Name: C:\Downloaded Web Sites\g1.globo.com\profissao-reporter\t\m9k2cnjw1D\index.htm
+Content Type: text/html
+
+Uri: https://colabore.apps.globo.com/campanha/827
+File Name: C:\Downloaded Web Sites\g1.globo.com\campanha\827.html
+Content Type: text/html
+
+Uri: http://especiais.g1.globo.com/globonews/2017/acompanhe-o-time-da-globonews-no-twitter/
+File Name: C:\Downloaded Web Sites\g1.globo.com\globonews\2017\acompanhe-o-time-da-globonews-no-twitter\index.htm
+Content Type: text/html
+
+Uri: https://grupoglobo.globo.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index-6.htm
+Content Type: text/html
+
+Uri: http://especiais.g1.globo.com/app-g1/
+File Name: C:\Downloaded Web Sites\g1.globo.com\app-g1\index.htm
+Content Type: text/html
+
+Uri: https://especiais.g1.globo.com/newsletter/
+File Name: C:\Downloaded Web Sites\g1.globo.com\newsletter\index.htm
+Content Type: text/html
+
+Uri: https://conteudosespeciais.g1.globo.com/especial-publicitario/riodeagora/
+File Name: C:\Downloaded Web Sites\g1.globo.com\especial-publicitario\riodeagora\index.htm
+Content Type: text/html
+
+Uri: https://especiais.g1.globo.com/app-g1/
+File Name: C:\Downloaded Web Sites\g1.globo.com\app-g1\index-1.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index-7.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/flamengo/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\flamengo\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/flamengo/agenda-de-jogos-do-flamengo/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\flamengo\agenda-de-jogos-do-flamengo\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/corinthians/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\corinthians\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/corinthians/agenda-de-jogos-do-corinthians/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\corinthians\agenda-de-jogos-do-corinthians\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/rs/futebol/times/gremio/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rs\futebol\times\gremio\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/rs/futebol/times/gremio/agenda-de-jogos-do-gremio/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rs\futebol\times\gremio\agenda-de-jogos-do-gremio\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/palmeiras/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\palmeiras\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/palmeiras/agenda-de-jogos-do-palmeiras/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\palmeiras\agenda-de-jogos-do-palmeiras\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/
+File Name: C:\Downloaded Web Sites\g1.globo.com\sp\santos-e-regiao\futebol\times\santos\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/agenda-de-jogos-do-santos/
+File Name: C:\Downloaded Web Sites\g1.globo.com\sp\santos-e-regiao\futebol\times\santos\agenda-de-jogos-do-santos\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/sao-paulo/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\sao-paulo\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/sao-paulo/agenda-de-jogos-do-sao-paulo/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\sao-paulo\agenda-de-jogos-do-sao-paulo\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/atletico-mg/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\atletico-mg\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/atletico-mg/agenda-de-jogos-do-atletico-mg/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\atletico-mg\agenda-de-jogos-do-atletico-mg\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/fluminense/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\fluminense\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/fluminense/agenda-de-jogos-do-fluminense/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\fluminense\agenda-de-jogos-do-fluminense\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/vasco/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\vasco\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/vasco/agenda-de-jogos-do-vasco/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\vasco\agenda-de-jogos-do-vasco\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/botafogo/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\botafogo\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/botafogo/agenda-de-jogos-do-botafogo/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\botafogo\agenda-de-jogos-do-botafogo\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/cruzeiro/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\cruzeiro\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/cruzeiro/agenda-de-jogos-do-cruzeiro/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\cruzeiro\agenda-de-jogos-do-cruzeiro\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/rs/futebol/times/internacional/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rs\futebol\times\internacional\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/rs/futebol/times/internacional/agenda-de-jogos-do-internacional/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rs\futebol\times\internacional\agenda-de-jogos-do-internacional\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/pr/futebol/times/athletico-pr/
+File Name: C:\Downloaded Web Sites\g1.globo.com\pr\futebol\times\athletico-pr\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/pr/futebol/times/athletico-pr/agenda-de-jogos-do-athletico-pr/
+File Name: C:\Downloaded Web Sites\g1.globo.com\pr\futebol\times\athletico-pr\agenda-de-jogos-do-athletico-pr\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/ce/futebol/times/ceara/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ce\futebol\times\ceara\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/ce/futebol/times/ceara/agenda-de-jogos-do-ceara/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ce\futebol\times\ceara\agenda-de-jogos-do-ceara\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/pe/futebol/times/sport/
+File Name: C:\Downloaded Web Sites\g1.globo.com\pe\futebol\times\sport\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/pe/futebol/times/sport/agenda/
+File Name: C:\Downloaded Web Sites\g1.globo.com\pe\futebol\times\sport\agenda\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/ba/futebol/times/bahia/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ba\futebol\times\bahia\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/ba/futebol/times/bahia/agenda-de-jogos-do-bahia/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ba\futebol\times\bahia\agenda-de-jogos-do-bahia\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/ce/futebol/times/fortaleza/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ce\futebol\times\fortaleza\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/ce/futebol/times/fortaleza/agenda-de-jogos-do-fortaleza/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ce\futebol\times\fortaleza\agenda-de-jogos-do-fortaleza\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/america-mg/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\america-mg\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/futebol/times/america-mg/agenda-de-jogos-do-america-mg/
+File Name: C:\Downloaded Web Sites\g1.globo.com\futebol\times\america-mg\agenda-de-jogos-do-america-mg\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/go/futebol/times/atletico-go/
+File Name: C:\Downloaded Web Sites\g1.globo.com\go\futebol\times\atletico-go\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/go/futebol/times/atletico-go/agenda-de-jogos-do-atletico-go/
+File Name: C:\Downloaded Web Sites\g1.globo.com\go\futebol\times\atletico-go\agenda-de-jogos-do-atletico-go\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/rs/futebol/times/juventude/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rs\futebol\times\juventude\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/rs/futebol/times/juventude/agenda-de-jogos-do-juventude/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rs\futebol\times\juventude\agenda-de-jogos-do-juventude\index.htm
+Content Type: text/html
+
+Uri: https://gshow.globo.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index-8.htm
+Content Type: text/html
+
+Uri: https://receitas.globo.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index-9.htm
+Content Type: text/html
+
+Uri: https://www.globo.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index-10.htm
+Content Type: text/html
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\tag\js\f.txt
+Content Type: text/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_acd8438fd650434baa93efc372c066a1/libs/lib-pub-relay/g1/prod/lib-pub-relay-g1-latest.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_acd8438fd650434baa93efc372c066a1\libs\lib-pub-relay\g1\prod\lib-pub-relay-g1-latest.js
+Content Type: application/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-social-share-0.1.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0\amp-social-share-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-timeago-0.1.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0\amp-timeago-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-fit-text-0.1.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0\amp-fit-text-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-bind-0.1.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0\amp-bind-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-lightbox-gallery-0.1.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0\amp-lightbox-gallery-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-carousel-0.1.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0\amp-carousel-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-video-0.1.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0\amp-video-0.1.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-5PWZB8V
+File Name: C:\Downloaded Web Sites\g1.globo.com\ns.html
+Content Type: text/html
+
+Uri: https://s01.video.glbimg.com/x240/11753964.jpg
+File Name: C:\Downloaded Web Sites\g1.globo.com\x240\11753964_x240.jpg
+Content Type: image/jpeg
+
+Uri: https://s02.video.glbimg.com/x240/11755193.jpg
+File Name: C:\Downloaded Web Sites\g1.globo.com\x240\11755193_x240.jpg
+Content Type: image/jpeg
+
+Uri: https://s2-g1.glbimg.com/eRgkuUx8bmJUZBuFWYB4endfivY=/0x0:1280x720/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2019/05/03/zecelso.jpg
+File Name: C:\Downloaded Web Sites\g1.globo.com\eRgkuUx8bmJUZBuFWYB4endfivY=\0x01280x720\984x0\smart\filtersstrip_icc()\s.glbimg.com\jo\g1\f\original\2019\05\03\zecelso.jpg
+Content Type: image/jpeg
+
+Uri: https://s04.video.glbimg.com/x240/11753923.jpg
+File Name: C:\Downloaded Web Sites\g1.globo.com\x240\11753923_x240.jpg
+Content Type: image/jpeg
+
+Uri: https://s3.glbimg.com/v1/AUTH_14ce1dbebbe64b1e8e955809a085692d/web-components/teste-ab.html?url=aHR0cHM6Ly9zMy5nbGJpbWcuY29tL3YxL0FVVEhfMTRjZTFkYmViYmU2NGIxZThlOTU1ODA5YTA4NTY5MmQvd2ViLWNvbXBvbmVudHMvcGxheWVyLXdlYi1tdWx0aWNvbnRlbnQvcHJvZC93aWRnZXQuaHRtbD9wcm9kdWN0TmFtZT1nMSZwcm9kdWN0Q29sb3I9JTIzQzQxNzBDJmFydHdvcmtVUkw9aHR0cHMlM0ElMkYlMkZzMy5nbGJpbWcuY29tJTJGdjElMkZBVVRIXzU5ZWRkNDIyYzBjODRhODc5YmQzNzY3MGFlNGY1MzhhJTJGYXVkaW9wdWItZXBpc29kZXMlMkZicyUyRjIwMjMlMkZjJTJGQiUyRjFzekNCZVI2eTVudmpBd3lJQXpnJTJGb2Fzc3VudG8tbmF0dXphbmVyeS5wbmcmYXVkaW9VUkw9aHR0cHMlM0ElMkYlMkZ0cmFmZmljLm9tbnkuZm0lMkZkJTJGY2xpcHMlMkY2NTFhMjUxZS0wNmUxLTQ3ZTAtOTMzNi1hYzVhMDBmNDE2MjglMkYwNDU2MWI0My03NTNkLTQ3ODQtOGUxOS1hYzhiMDBlODY0MTElMkZkMTMxYzE3NC04M2Q3LTRjZTctYTFiNS1iMDM1MDA2MmQ2MWQlMkZhdWRpby5tcDMmZHVyYXRpb249MTgwMC41NjgmYXV0aG9yPUcxJmVwaXNvZGVUaXRsZT1SZWZvcm1hK3RyaWJ1dCVDMyVBMXJpYSslRTIlODAlOTMrY29tbytlbGErYWZldGErc3VhK3ZpZGErJnBvZGNhc3RUaXRsZT1PK0Fzc3VudG8mcHVibGlzaGVkQXQ9MjAyMy0wNy0wNFQwNiUzQTAwJTNBNThaJnNoYXJlVXJsPWh0dHBzJTNBJTJGJTJGZzEuZ2xvYm8uY29tJTJGcG9kY2FzdCUyRm8tYXNzdW50byUyRg==&channel=desktop
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_14ce1dbebbe64b1e8e955809a085692d\web-components\teste-ab.html
+Content Type: text/html
+
+Uri: https://s3.glbimg.com/v1/AUTH_e1b09a2d222b4900a437a46914be81e5/api/stable/web/api.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_e1b09a2d222b4900a437a46914be81e5\api\stable\web\api.min.js
+Content Type: application/javascript
+
+Uri: https://s3.glbimg.com/cdn/libs/clappr-plugins/login-screen/1.2.1/player-plugin-login-screen.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\libs\clappr-plugins\login-screen\1.2.1\player-plugin-login-screen.min.js
+Content Type: text/javascript
+
+Uri: https://s3.glbimg.com/cdn/libs/clappr-plugins/video-recommendation/v2.2.2-g1/video-recommendation-plugin.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\libs\clappr-plugins\video-recommendation\v2.2.2-g1\video-recommendation-plugin.js
+Content Type: text/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_f75bb4776e3c4683acd769d47144995f/viewport-play-plugin/v1.2.0/viewport-play-plugin.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_f75bb4776e3c4683acd769d47144995f\viewport-play-plugin\v1.2.0\viewport-play-plugin.min.js
+Content Type: text/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_f75bb4776e3c4683acd769d47144995f/detach-plugin/1.0.0/clapprDetachPlugin.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_f75bb4776e3c4683acd769d47144995f\detach-plugin\1.0.0\clapprDetachPlugin.min.js
+Content Type: text/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_f75bb4776e3c4683acd769d47144995f/chartbeat-plugin/1.1.0/chartbeat-plugin.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_f75bb4776e3c4683acd769d47144995f\chartbeat-plugin\1.1.0\chartbeat-plugin.min.js
+Content Type: text/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_f75bb4776e3c4683acd769d47144995f/bs-player-g1/1.9.1/bs-player.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_f75bb4776e3c4683acd769d47144995f\bs-player-g1\1.9.1\bs-player.min.js
+Content Type: text/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_f75bb4776e3c4683acd769d47144995f/player-assets/1.1.0/playerAssets.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_f75bb4776e3c4683acd769d47144995f\player-assets\1.1.0\playerAssets.min.js
+Content Type: text/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_f7772c2cb2fd4af2bb8929c0ae6fdba7/dsframework/build/latest/client/bastian-202404ee0fc2723d6e501d470f994fbf077500.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_f7772c2cb2fd4af2bb8929c0ae6fdba7\dsframework\build\latest\client\bastian-202404ee0fc2723d6e501d470f994fbf077500.js
+Content Type: application/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/f0b43eb7-fd5b-4362-8989-7347f721f24c/e8b06e29-93d6-49ab-956b-ff2c6d3a77ba.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\f0b43eb7-fd5b-4362-8989-7347f721f24c\e8b06e29-93d6-49ab-956b-ff2c6d3a77ba.js
+Content Type: application/javascript
+
+Uri: https://novabarra.globo.com/webcomponent/index.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\webcomponent\index.js
+Content Type: application/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_89c6d9f49eec4e768bc6ccddcb31a34b/lgpd-lib/lgpd-lib.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_89c6d9f49eec4e768bc6ccddcb31a34b\lgpd-lib\lgpd-lib.min.js
+Content Type: application/javascript
+
+Uri: https://s3.glbimg.com/cdn/libs/jquery/1.8.3/jquery.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\libs\jquery\1.8.3\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_ba8e460c944543468c3c80cb9675751f/integracoes/chartbeat/v1.0.0/chartbeat.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_ba8e460c944543468c3c80cb9675751f\integracoes\chartbeat\v1.0.0\chartbeat.min.js
+Content Type: text/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/14844b07b45ebf5da014dea24ce2d8ab.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b002e0039b9f46a5a4a94ff667d31e2d\assets\dist\14844b07b45ebf5da014dea24ce2d8ab.js
+Content Type: text/javascript
+
+Uri: https://marketingplatform.google.com/about/analytics/
+File Name: C:\Downloaded Web Sites\g1.globo.com\about\analytics\index.htm
+Content Type: text/html
+
+Uri: https://privacidade.globo.com/privacy-policy/
+File Name: C:\Downloaded Web Sites\g1.globo.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/globo-comunidade-df/t/9NWKymC8xC/
+File Name: C:\Downloaded Web Sites\g1.globo.com\globo-comunidade-df\t\9NWKymC8xC\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-go/t/t6Fx757bX7/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-go\t\t6Fx757bX7\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-sabado-goias/t/GSdtKhbfym/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-sabado-goias\t\GSdtKhbfym\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/ja-1a-edicao/t/LNmkZrQtRn/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ja-1a-edicao\t\LNmkZrQtRn\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/ja-2a-edicao/t/rwGdB5d1qQ/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ja-2a-edicao\t\rwGdB5d1qQ\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-do-campo-go/t/vCbXr7hpd9/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-do-campo-go\t\vCbXr7hpd9\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/go/
+File Name: C:\Downloaded Web Sites\g1.globo.com\go\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-mt/t/hHQvkZkp5Y/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-mt\t\hHQvkZkp5Y\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mttv-1a-edicao-cuiaba/t/KRJFrS7q5W/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mttv-1a-edicao-cuiaba\t\KRJFrS7q5W\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mt-rural/t/S5LHgCv2Gv/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mt-rural\t\S5LHgCv2Gv\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mttv-2a-edicao-cuiaba/t/LBjkGxKny7/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mttv-2a-edicao-cuiaba\t\LBjkGxKny7\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/mt/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mt\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-ms/t/7z7XQ6sWs6/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-ms\t\7z7XQ6sWs6\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mstv-1a-edicao-campo-grande/t/VhDKGbxdJD/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mstv-1a-edicao-campo-grande\t\VhDKGbxdJD\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mstv-2a-edicao-campo-grande/t/JWMBcBWJLp/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mstv-2a-edicao-campo-grande\t\JWMBcBWJLp\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/ms-rural/t/gQncGRJsVQ/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ms-rural\t\gQncGRJsVQ\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/ms/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ms\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-alagoas/t/h9kFSTb2B8/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-alagoas\t\h9kFSTb2B8\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/al-tv-1a-edicao/t/1StnyZfqv7/
+File Name: C:\Downloaded Web Sites\g1.globo.com\al-tv-1a-edicao\t\1StnyZfqv7\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/al-tv-2a-edicao/t/B9b5r82bFK/
+File Name: C:\Downloaded Web Sites\g1.globo.com\al-tv-2a-edicao\t\B9b5r82bFK\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/gazeta-rural/t/DSwdbx2bvR/
+File Name: C:\Downloaded Web Sites\g1.globo.com\gazeta-rural\t\DSwdbx2bvR\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/al/
+File Name: C:\Downloaded Web Sites\g1.globo.com\al\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-da-manha/t/kSCBL1Twb9/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-da-manha\t\kSCBL1Twb9\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bahia-meio-dia-salvador/t/DSgnn8wJcL/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bahia-meio-dia-salvador\t\DSgnn8wJcL\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/batv-salvador/t/YLCbrWJkDC/
+File Name: C:\Downloaded Web Sites\g1.globo.com\batv-salvador\t\YLCbrWJkDC\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bahia-rural/t/VmBD1RRcWf/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bahia-rural\t\VmBD1RRcWf\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/ba/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ba\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-ceara/t/M8svBCwmKZ/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-ceara\t\M8svBCwmKZ\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/cetv-1a-edicao-fortaleza/t/TBrfVFPkrg/
+File Name: C:\Downloaded Web Sites\g1.globo.com\cetv-1a-edicao-fortaleza\t\TBrfVFPkrg\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/cetv-2a-edicao/t/7WgRGzPbDX/
+File Name: C:\Downloaded Web Sites\g1.globo.com\cetv-2a-edicao\t\7WgRGzPbDX\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/ne-rural-ceara/t/jVdhtZYGKs/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ne-rural-ceara\t\jVdhtZYGKs\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/ce/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ce\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-mirante/t/VQTRtT58xd/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-mirante\t\VQTRtT58xd\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jmtv-1a-edicao/t/yMNsD5fzF7/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jmtv-1a-edicao\t\yMNsD5fzF7\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jmtv-2a-edicao/t/JzjybxPBNx/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jmtv-2a-edicao\t\JzjybxPBNx\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mirante-rural/t/BtfhpRLhkg/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mirante-rural\t\BtfhpRLhkg\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/ma/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ma\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/daqui/t/F5ChTfNCv5/
+File Name: C:\Downloaded Web Sites\g1.globo.com\daqui\t\F5ChTfNCv5\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/reporter-mirante/t/Rv5XsQ7MGx/
+File Name: C:\Downloaded Web Sites\g1.globo.com\reporter-mirante\t\Rv5XsQ7MGx\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-paraiba/t/ZPVcLXTMx7/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-paraiba\t\ZPVcLXTMx7\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jpb1/t/B8dZp9x1n6/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jpb1\t\B8dZp9x1n6\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jpb2/t/Y896jQGb1w/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jpb2\t\Y896jQGb1w\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/paraiba-comunidade/t/ngfNPpmTBJ/
+File Name: C:\Downloaded Web Sites\g1.globo.com\paraiba-comunidade\t\ngfNPpmTBJ\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/pb/
+File Name: C:\Downloaded Web Sites\g1.globo.com\pb\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/nordeste-viver-e-preservar/t/sFCTHcNRhg/
+File Name: C:\Downloaded Web Sites\g1.globo.com\nordeste-viver-e-preservar\t\sFCTHcNRhg\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/pe/
+File Name: C:\Downloaded Web Sites\g1.globo.com\pe\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-pe/t/dkGCdfzZHL/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-pe\t\dkGCdfzZHL\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/ab-tv-1a-edicao/t/2QrPcmv1Px/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ab-tv-1a-edicao\t\2QrPcmv1Px\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/ab-tv-2a-edicao/t/mDbXM9q1Qx/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ab-tv-2a-edicao\t\mDbXM9q1Qx\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/globo-comunidade-pe/t/LCCHkBkBTN/
+File Name: C:\Downloaded Web Sites\g1.globo.com\globo-comunidade-pe\t\LCCHkBkBTN\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/pe/caruaru-regiao/
+File Name: C:\Downloaded Web Sites\g1.globo.com\pe\caruaru-regiao\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/grtv-1a-edicao/t/8cW66vwW6v/
+File Name: C:\Downloaded Web Sites\g1.globo.com\grtv-1a-edicao\t\8cW66vwW6v\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/grtv-2a-edicao/t/MBmq9gsjDS/
+File Name: C:\Downloaded Web Sites\g1.globo.com\grtv-2a-edicao\t\MBmq9gsjDS\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/pe/petrolina-regiao/
+File Name: C:\Downloaded Web Sites\g1.globo.com\pe\petrolina-regiao\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-piaui/t/pPhwC5YTNK/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-piaui\t\pPhwC5YTNK\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-sabado-tv-clube/t/SV6vb22QPs/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-sabado-tv-clube\t\SV6vb22QPs\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/pitv-1a-edicao/t/M5f6Kxnmxd/
+File Name: C:\Downloaded Web Sites\g1.globo.com\pitv-1a-edicao\t\M5f6Kxnmxd\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/pitv-2a-edicao/t/LgVGXnBRsd/
+File Name: C:\Downloaded Web Sites\g1.globo.com\pitv-2a-edicao\t\LgVGXnBRsd\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/clube-rural/t/MRfgYDJBBM/
+File Name: C:\Downloaded Web Sites\g1.globo.com\clube-rural\t\MRfgYDJBBM\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/pi/
+File Name: C:\Downloaded Web Sites\g1.globo.com\pi\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-rn/t/86SBhm6621/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-rn\t\86SBhm6621\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/rn-tv-1a-edicao/t/xfG6MhBJb8/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rn-tv-1a-edicao\t\xfG6MhBJb8\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/rn-tv-2a-edicao/t/ZSXNcGLrhR/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rn-tv-2a-edicao\t\ZSXNcGLrhR\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/inter-tv-rural-rn/t/kbRzWXmVzR/
+File Name: C:\Downloaded Web Sites\g1.globo.com\inter-tv-rural-rn\t\kbRzWXmVzR\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/rn/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rn\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-sergipe/t/N27bW2jjjL/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-sergipe\t\N27bW2jjjL\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/se-tv-1a-edicao/t/VQpDrxK2LF/
+File Name: C:\Downloaded Web Sites\g1.globo.com\se-tv-1a-edicao\t\VQpDrxK2LF\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/se-tv-2a-edicao/t/2tTkZm1NQP/
+File Name: C:\Downloaded Web Sites\g1.globo.com\se-tv-2a-edicao\t\2tTkZm1NQP\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/estacao-agricola/t/nmVVVKLTmF/
+File Name: C:\Downloaded Web Sites\g1.globo.com\estacao-agricola\t\nmVVVKLTmF\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/se/
+File Name: C:\Downloaded Web Sites\g1.globo.com\se\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/ac/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ac\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-amazonia-ap/t/N5QzLCvq6D/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-amazonia-ap\t\N5QzLCvq6D\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-do-amapa-1a-edicao/t/tPPzKyt65B/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-do-amapa-1a-edicao\t\tPPzKyt65B\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-do-amapa-2a-edicao/t/JpzBGxGZBw/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-do-amapa-2a-edicao\t\JpzBGxGZBw\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/amazonia-rural/t/sVnKc2yQq2/
+File Name: C:\Downloaded Web Sites\g1.globo.com\amazonia-rural\t\sVnKc2yQq2\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/ap/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ap\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-amazonia/t/sMtw5QrmXB/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-amazonia\t\sMtw5QrmXB\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jam-1a-edicao/t/Gzy6rmrXkr/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jam-1a-edicao\t\Gzy6rmrXkr\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jam-2a-edicao/t/2MwBtxLXYt/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jam-2a-edicao\t\2MwBtxLXYt\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/am/
+File Name: C:\Downloaded Web Sites\g1.globo.com\am\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-para/t/JhrLxMJ1FF/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-para\t\JhrLxMJ1FF\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-liberal-1a-edicao/t/MWddnpNDF8/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-liberal-1a-edicao\t\MWddnpNDF8\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-liberal-2a-edicao/t/1rG8DD8KhB/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-liberal-2a-edicao\t\1rG8DD8KhB\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/liberal-comunidade/t/ykz25SKSt9/
+File Name: C:\Downloaded Web Sites\g1.globo.com\liberal-comunidade\t\ykz25SKSt9\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/pa/
+File Name: C:\Downloaded Web Sites\g1.globo.com\pa\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-tapajos/t/C11pJvKVZP/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-tapajos\t\C11pJvKVZP\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-tapajos-1a-edicao/t/hTwfdtmDCQ/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-tapajos-1a-edicao\t\hTwfdtmDCQ\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-tapajos-2a-edicao/t/dn91SZ5L5S/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-tapajos-2a-edicao\t\dn91SZ5L5S\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/pa/santarem-regiao/
+File Name: C:\Downloaded Web Sites\g1.globo.com\pa\santarem-regiao\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-amazonia-ro/t/NxDDcyR9jK/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-amazonia-ro\t\NxDDcyR9jK\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-de-rondonia-1a-edicao/t/DNhCczPDWX/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-de-rondonia-1a-edicao\t\DNhCczPDWX\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-de-rondonia-2a-edicao/t/N9XWSwnTJk/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-de-rondonia-2a-edicao\t\N9XWSwnTJk\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/ro/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ro\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-amazonia-rr/t/wGjzMtrD1j/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-amazonia-rr\t\wGjzMtrD1j\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-de-roraima-1a-edicao/t/QpsfZdDgY2/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-de-roraima-1a-edicao\t\QpsfZdDgY2\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-de-roraima-2a-edicao/t/zY7pxdBhRS/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-de-roraima-2a-edicao\t\zY7pxdBhRS\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/rr/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rr\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-tocantins/t/Ztv51j5zDM/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-tocantins\t\Ztv51j5zDM\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/ja-1a-edicao-to/t/XCFJv6Hf6d/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ja-1a-edicao-to\t\XCFJv6Hf6d\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/ja-2a-edicao-to/t/ZHbqj7dyyV/
+File Name: C:\Downloaded Web Sites\g1.globo.com\ja-2a-edicao-to\t\ZHbqj7dyyV\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-do-campo-to/t/hdvj6PfmSb/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-do-campo-to\t\hdvj6PfmSb\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/to/
+File Name: C:\Downloaded Web Sites\g1.globo.com\to\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-es/t/DLBLDnCVGs/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-es\t\DLBLDnCVGs\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/gazeta-meio-dia/t/VjtbjctLwM/
+File Name: C:\Downloaded Web Sites\g1.globo.com\gazeta-meio-dia\t\VjtbjctLwM\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/boa-noite-espirito-santo/t/XKRVQgNnjg/
+File Name: C:\Downloaded Web Sites\g1.globo.com\boa-noite-espirito-santo\t\XKRVQgNnjg\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-do-campo-es/t/f5g1dWyKfP/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-do-campo-es\t\f5g1dWyKfP\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/es/
+File Name: C:\Downloaded Web Sites\g1.globo.com\es\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/role-nas-gerais/t/wLvCcPHZhh/
+File Name: C:\Downloaded Web Sites\g1.globo.com\role-nas-gerais\t\wLvCcPHZhh\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/mg/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mg\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-minas/t/N22TfC8fcB/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-minas\t\N22TfC8fcB\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mgtv-1a-edicao-centro-oeste/t/WCvLqywXYD/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mgtv-1a-edicao-centro-oeste\t\WCvLqywXYD\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mgtv-2a-edicao-centro-oeste/t/bRJwh91yKt/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mgtv-2a-edicao-centro-oeste\t\bRJwh91yKt\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mg-rural-tv-integracao/t/YJCHr9dsC8/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mg-rural-tv-integracao\t\YJCHr9dsC8\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/integracao-noticia-centro-oeste/t/XNjKRmbVWN/
+File Name: C:\Downloaded Web Sites\g1.globo.com\integracao-noticia-centro-oeste\t\XNjKRmbVWN\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/mg/zona-da-mata-centro-oeste/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mg\zona-da-mata-centro-oeste\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/inter-tv-noticia-grande-minas/t/M1hkv8Kwj9/
+File Name: C:\Downloaded Web Sites\g1.globo.com\inter-tv-noticia-grande-minas\t\M1hkv8Kwj9\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mg-inter-tv-1a-edicao-grande-minas/t/k9Pkg2G7b8/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mg-inter-tv-1a-edicao-grande-minas\t\k9Pkg2G7b8\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mg-inter-tv-2a-edicao-grande-minas/t/7vmw7CSX9p/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mg-inter-tv-2a-edicao-grande-minas\t\7vmw7CSX9p\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/inter-tv-rural-grande-minas/t/9brKN6XtNS/
+File Name: C:\Downloaded Web Sites\g1.globo.com\inter-tv-rural-grande-minas\t\9brKN6XtNS\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/mg/grande-minas-vales/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mg\grande-minas-vales\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-cidade-sul-de-minas/t/jYScgLBVnj/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-cidade-sul-de-minas\t\jYScgLBVnj\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-da-eptv-1a-edicao-sul-de-minas/t/Yww7csmBgs/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-da-eptv-1a-edicao-sul-de-minas\t\Yww7csmBgs\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-da-eptv-2a-edicao-sul-de-minas/t/8MzDwF8hzd/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-da-eptv-2a-edicao-sul-de-minas\t\8MzDwF8hzd\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/terra-da-gente-eptv/t/LvDFmLbYDR/
+File Name: C:\Downloaded Web Sites\g1.globo.com\terra-da-gente-eptv\t\LvDFmLbYDR\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/mg/sul-de-minas/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mg\sul-de-minas\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mgtv-1a-edicao-uberlandia/t/V7L8xctdKy/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mgtv-1a-edicao-uberlandia\t\V7L8xctdKy\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mgtv-2a-edicao-uberlandia/t/dCnZ9grrgV/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mgtv-2a-edicao-uberlandia\t\dCnZ9grrgV\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mgtv-1a-edicao-uberaba/t/mQcpXfqVy7/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mgtv-1a-edicao-uberaba\t\mQcpXfqVy7\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mgtv-2a-edicao-uberaba/t/jYvmCb5jKq/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mgtv-2a-edicao-uberaba\t\jYvmCb5jKq\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/integracao-noticia-triangulo-mineiro/t/Gvc9HC227k/
+File Name: C:\Downloaded Web Sites\g1.globo.com\integracao-noticia-triangulo-mineiro\t\Gvc9HC227k\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/mg/triangulo-mineiro/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mg\triangulo-mineiro\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/globo-esporte-triangulo-mineiro/t/MMG8Hkbw6Z/
+File Name: C:\Downloaded Web Sites\g1.globo.com\globo-esporte-triangulo-mineiro\t\MMG8Hkbw6Z\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/inter-tv-noticia/t/qPQKZKwcWm/
+File Name: C:\Downloaded Web Sites\g1.globo.com\inter-tv-noticia\t\qPQKZKwcWm\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mg-inter-tv-1a-edicao-vales-mg/t/PC8nsHMPKn/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mg-inter-tv-1a-edicao-vales-mg\t\PC8nsHMPKn\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mg-inter-tv-2a-edicao-vales-mg/t/1f15P1wjkg/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mg-inter-tv-2a-edicao-vales-mg\t\1f15P1wjkg\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/inter-tv-rural-vales-de-minas-gerais/t/JzycN8NLq8/
+File Name: C:\Downloaded Web Sites\g1.globo.com\inter-tv-rural-vales-de-minas-gerais\t\JzycN8NLq8\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mgtv-1a-edicao-zona-da-mata/t/NwZVVWvFNd/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mgtv-1a-edicao-zona-da-mata\t\NwZVVWvFNd\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/mgtv-2a-edicao-zona-da-mata/t/WbgrZdVbDs/
+File Name: C:\Downloaded Web Sites\g1.globo.com\mgtv-2a-edicao-zona-da-mata\t\WbgrZdVbDs\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/integracao-noticia-zona-da-mata/t/jPpQXbcLHH/
+File Name: C:\Downloaded Web Sites\g1.globo.com\integracao-noticia-zona-da-mata\t\jPpQXbcLHH\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/globo-esporte-zona-da-mata/t/SnWnbWwxqk/
+File Name: C:\Downloaded Web Sites\g1.globo.com\globo-esporte-zona-da-mata\t\SnWnbWwxqk\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/rj/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rj\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-rio-inter-tv/t/QXDBRpKTNL/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-rio-inter-tv\t\QXDBRpKTNL\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/rj-inter-tv-1a-edicao/t/PR8ffgdHSS/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rj-inter-tv-1a-edicao\t\PR8ffgdHSS\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/rj-inter-tv-2a-edicao-campos-dos-goytacazes-inter-tv-planicie/t/tNWtwmJwWJ/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rj-inter-tv-2a-edicao-campos-dos-goytacazes-inter-tv-planicie\t\tNWtwmJwWJ\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/rj/serra-lagos-norte/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rj\serra-lagos-norte\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/rj-inter-tv-2a-edicao/t/BfDdKnGn9k/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rj-inter-tv-2a-edicao\t\BfDdKnGn9k\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/rj1-tv-rio-sul/t/mNkfqXRN6K/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rj1-tv-rio-sul\t\mNkfqXRN6K\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/rj2-tv-rio-sul/t/YMvWWRGMCK/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rj2-tv-rio-sul\t\YMvWWRGMCK\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/rj/sul-do-rio-costa-verde/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rj\sul-do-rio-costa-verde\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/sp/
+File Name: C:\Downloaded Web Sites\g1.globo.com\sp\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-cidade-bauru/t/tdX1rrFFWW/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-cidade-bauru\t\tdX1rrFFWW\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/tem-noticias-1a-edicao-baurumarilia/t/w5ZtdvpmtT/
+File Name: C:\Downloaded Web Sites\g1.globo.com\tem-noticias-1a-edicao-baurumarilia\t\w5ZtdvpmtT\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/tem-noticias-2a-edicao-baurumarilia/t/HztNYw6Pq8/
+File Name: C:\Downloaded Web Sites\g1.globo.com\tem-noticias-2a-edicao-baurumarilia\t\HztNYw6Pq8\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/nosso-campo-tv-tem/t/tfzyCQZFSb/
+File Name: C:\Downloaded Web Sites\g1.globo.com\nosso-campo-tv-tem\t\tfzyCQZFSb\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/sp/tem-esporte/
+File Name: C:\Downloaded Web Sites\g1.globo.com\sp\tem-esporte\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-cidade-campinaspiracicaba/t/Csh8sVKPDS/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-cidade-campinaspiracicaba\t\Csh8sVKPDS\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-da-eptv-1a-edicao-campinaspiracicaba/t/ns21JYrHdb/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-da-eptv-1a-edicao-campinaspiracicaba\t\ns21JYrHdb\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/sp/campinas-e-regiao/
+File Name: C:\Downloaded Web Sites\g1.globo.com\sp\campinas-e-regiao\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-cidade-sorocaba-e-itapetininga/t/xX5kGGDkLk/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-cidade-sorocaba-e-itapetininga\t\xX5kGGDkLk\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/antena-paulista/t/ndjtNZK9KD/
+File Name: C:\Downloaded Web Sites\g1.globo.com\antena-paulista\t\ndjtNZK9KD\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/memoria-tv-tem/t/fKsgH2VCgY/
+File Name: C:\Downloaded Web Sites\g1.globo.com\memoria-tv-tem\t\fKsgH2VCgY\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/tem-comunidade-itapetiningaregiao/t/cNJ96hCh5m/
+File Name: C:\Downloaded Web Sites\g1.globo.com\tem-comunidade-itapetiningaregiao\t\cNJ96hCh5m\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-diario/t/p2vWK67bV8/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-diario\t\p2vWK67bV8\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/diario-tv-1a-edicao/t/gn9xPPjzTg/
+File Name: C:\Downloaded Web Sites\g1.globo.com\diario-tv-1a-edicao\t\gn9xPPjzTg\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/diario-tv-2a-edicao/t/GyLJSBcgYx/
+File Name: C:\Downloaded Web Sites\g1.globo.com\diario-tv-2a-edicao\t\GyLJSBcgYx\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/diario-comunidade/t/gcF8tmsjWM/
+File Name: C:\Downloaded Web Sites\g1.globo.com\diario-comunidade\t\gcF8tmsjWM\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/sp/mogi-das-cruzes-suzano/
+File Name: C:\Downloaded Web Sites\g1.globo.com\sp\mogi-das-cruzes-suzano\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-fronteira/t/Kj27VWH7jh/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-fronteira\t\Kj27VWH7jh\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/fronteira-noticias-1a-edicao/t/gn8YVhjTNF/
+File Name: C:\Downloaded Web Sites\g1.globo.com\fronteira-noticias-1a-edicao\t\gn8YVhjTNF\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/fronteira-noticias-2a-edicao/t/yjBXrgKVTT/
+File Name: C:\Downloaded Web Sites\g1.globo.com\fronteira-noticias-2a-edicao\t\yjBXrgKVTT\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/sp/presidente-prudente-regiao/
+File Name: C:\Downloaded Web Sites\g1.globo.com\sp\presidente-prudente-regiao\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-cidade-ribeirao-preto/t/tk5YxqqcbV/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-cidade-ribeirao-preto\t\tk5YxqqcbV\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-da-eptv-1a-edicao-ribeirao-preto/t/YwxBkzN1WR/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-da-eptv-1a-edicao-ribeirao-preto\t\YwxBkzN1WR\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-da-eptv-2a-edicao-ribeirao-preto/t/tCqfgXZxB5/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-da-eptv-2a-edicao-ribeirao-preto\t\tCqfgXZxB5\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/sp/ribeirao-preto-e-regiao/
+File Name: C:\Downloaded Web Sites\g1.globo.com\sp\ribeirao-preto-e-regiao\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/tem-noticias-1a-edicao-rio-pretoaracatuba/t/F9HG7kmbcy/
+File Name: C:\Downloaded Web Sites\g1.globo.com\tem-noticias-1a-edicao-rio-pretoaracatuba\t\F9HG7kmbcy\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/tem-noticias-2a-edicao-rio-pretoaracatuba/t/X1rK9JJdgL/
+File Name: C:\Downloaded Web Sites\g1.globo.com\tem-noticias-2a-edicao-rio-pretoaracatuba\t\X1rK9JJdgL\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-tribuna-1a-edicao/t/yXTFvQTHZw/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-tribuna-1a-edicao\t\yXTFvQTHZw\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-tribuna-2a-edicao/t/pDk1g2ynmM/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-tribuna-2a-edicao\t\pDk1g2ynmM\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/sp/santos-e-regiao/
+File Name: C:\Downloaded Web Sites\g1.globo.com\sp\santos-e-regiao\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-da-eptv-1a-edicao-sao-carlosararaquara/t/JZgJnxwqN6/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-da-eptv-1a-edicao-sao-carlosararaquara\t\JZgJnxwqN6\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-da-eptv-2a-edicao-sao-carlosararaquara/t/2tkRYTvxWr/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-da-eptv-2a-edicao-sao-carlosararaquara\t\2tkRYTvxWr\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/tem-noticias-2a-edicao-sorocabajundiai/t/N9vxtQSLfM/
+File Name: C:\Downloaded Web Sites\g1.globo.com\tem-noticias-2a-edicao-sorocabajundiai\t\N9vxtQSLfM\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-vanguarda/t/ZzqdXYb2tQ/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-vanguarda\t\ZzqdXYb2tQ\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-vanguarda/t/kCFsqtCPvR/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-vanguarda\t\kCFsqtCPvR\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/vanguarda-comunidade/t/JZh8zPqfkm/
+File Name: C:\Downloaded Web Sites\g1.globo.com\vanguarda-comunidade\t\JZh8zPqfkm\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/sp/vale-do-paraiba-regiao/
+File Name: C:\Downloaded Web Sites\g1.globo.com\sp\vale-do-paraiba-regiao\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/pr/
+File Name: C:\Downloaded Web Sites\g1.globo.com\pr\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-rio-grande/t/f6BjjDQWvS/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-rio-grande\t\f6BjjDQWvS\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-do-almoco/t/bPzKqk9zLH/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-do-almoco\t\bPzKqk9zLH\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/rbs-noticias/t/CHrkGgpgd9/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rbs-noticias\t\CHrkGgpgd9\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/campo-e-lavoura/t/pfLnCxLXZ7/
+File Name: C:\Downloaded Web Sites\g1.globo.com\campo-e-lavoura\t\pfLnCxLXZ7\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/rs/
+File Name: C:\Downloaded Web Sites\g1.globo.com\rs\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-santa-catarina/t/kwp272bc76/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-santa-catarina\t\kwp272bc76\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/jornal-do-almoco-sc/t/Gcw9cJKnQS/
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornal-do-almoco-sc\t\Gcw9cJKnQS\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/nsc-noticias-sc/t/wztJnSC6wc/
+File Name: C:\Downloaded Web Sites\g1.globo.com\nsc-noticias-sc\t\wztJnSC6wc\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/nossa-santa-catarina/t/Nkrv6nM8Wt/
+File Name: C:\Downloaded Web Sites\g1.globo.com\nossa-santa-catarina\t\Nkrv6nM8Wt\index.htm
+Content Type: text/html
+
+Uri: https://ge.globo.com/sc/
+File Name: C:\Downloaded Web Sites\g1.globo.com\sc\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/bom-dia-brasil/t/HMmTps9vSY/
+File Name: C:\Downloaded Web Sites\g1.globo.com\bom-dia-brasil\t\HMmTps9vSY\index.htm
+Content Type: text/html
+
+Uri: https://globorural.globo.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index-4.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/globo-rural/t/xyFHtZytj2/
+File Name: C:\Downloaded Web Sites\g1.globo.com\globo-rural\t\xyFHtZytj2\index.htm
+Content Type: text/html
+
+Uri: https://globoplay.globo.com/tv-globo/ao-vivo/6120663/?origemId=1374&utm_source=globocom&utm_medium=g1&utm_campaign=1-Insti-gpmc&utm_term=menu-globonews-mais-canais-&utm_content=botao
+File Name: C:\Downloaded Web Sites\g1.globo.com\tv-globo\ao-vivo\6120663\index.htm
+Content Type: text/html
+
+Uri: https://canaisglobo.globo.com/c/globonews/
+File Name: C:\Downloaded Web Sites\g1.globo.com\c\globonews\index.htm
+Content Type: text/html
+
+Uri: https://canaisglobo.globo.com/programacao/globonews/3180453/
+File Name: C:\Downloaded Web Sites\g1.globo.com\programacao\globonews\3180453\index.htm
+Content Type: text/html
+
+Uri: https://memoriaglobo.globo.com/jornalismo/globonews/jornal-globonews/noticia/historia.ghtml
+File Name: C:\Downloaded Web Sites\g1.globo.com\jornalismo\globonews\jornal-globonews\noticia\historia.ghtml.html
+Content Type: text/html
+

@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Grupo Globo</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <link rel="stylesheet" type="text/css" href="index.css" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+        <!-- Begin Comscore Tag -->
+        <script>
+            var _comscore = _comscore || [];  _comscore.push({ c1: "2", c2: "6035227" });  (function() {
+                var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                s.src = "https://sb.scorecardresearch.com/cs/6035227/beacon.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        </script>
+        <noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=6035227&cv=3.6&cj=1"></noscript>
+        <!-- End Comscore Tag -->
+        <link rel="icon shortcut" type="image/x-icon" href="../../images/favicon.ico" />
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    </head>
+    <body>
+        <header id="inicio">
+            <div class="d-none d-xl-block fixed navbar-wrapper">
+                <div class="container">
+                    <nav class="navbar">
+                        <div class="nav-left">
+                            <div class="logo-wrapper">
+                                <a href=""> <img id="logo-company" src="../../images/logo_grupo_globo_branco.svg" alt="logo" /> <img class="d-none" id="logo-company-blue" src="../../images/logo-globo-azul.svg" alt="logo" /> </a>
+                            </div>
+                        </div>
+                        <div class="nav-right">
+                            <div class="language-switcher-wrapper">
+                                <span class="change-language-button language-switcher-item" data-language="pt-BR">PT</span> <span class="dot-separator first language-switcher-item"></span>
+                                <span class="change-language-button language-switcher-item" data-language="en-US">EN</span> <span class="dot-separator language-switcher-item second"></span>
+                                <span class="change-language-button language-switcher-item" data-language="es">ES</span>
+                            </div>
+                            <div class="menu-icon">
+                                <a href="javascript:void(0)" onclick="window.openSidePanel()">
+                                    <img id="logo-menu" src="../../images/menu_abrir.svg" alt="menu" /> <img class="d-none" id="logo-menu-blue" src="../../images/menu-abrir-azul.svg" alt="menu" />
+                                </a>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <div class="d-xl-none fixed mobile navbar-wrapper">
+                <div class="container">
+                    <nav class="mobile navbar">
+                        <div class="nav-left">
+                            <div class="logo-wrapper">
+                                <a href=""> <img id="logo-company" src="../../images/logo_grupo_globo_branco.svg" alt="logo" /> <img id="logo-company-blue" src="../../images/logo-globo-azul.svg" alt="logo" /> </a>
+                            </div>
+                        </div>
+                        <div class="nav-right">
+                            <div class="language-switcher-wrapper">
+                                <span class="change-language-mobile-button language-switcher-item" data-language="pt-BR">PT</span> <span class="first language-switcher-item mobile-dot-separator"></span>
+                                <span class="change-language-mobile-button language-switcher-item" data-language="en-US">EN</span> <span class="language-switcher-item mobile-dot-separator second"></span>
+                                <span class="change-language-mobile-button language-switcher-item" data-language="es">ES</span>
+                            </div>
+                            <div class="menu-icon">
+                                <a href="javascript:void(0)" onclick="window.openSidePanel()">
+                                    <img id="logo-menu" src="../../images/menu_abrir.svg" alt="menu" /> <img id="logo-menu-blue" src="../../images/menu-abrir-azul.svg" alt="menu" />
+                                </a>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <div id="sidepanel" class="sidepanel-wrapper">
+                <div class="navbar-wrapper">
+                    <div class="container">
+                        <nav class="navbar">
+                            <div class="logo-wrapper">
+                                <a href=""> <img id="logo-company" src="../../images/logo_grupo_globo_branco.svg" alt="logo" /> </a>
+                            </div>
+                            <div class="close-icon menu-icon">
+                                <a href="javascript:void(0)" class="icon" onclick="window.closeSidePanel()"> <img id="logo-menu" src="../../images/menu-fechar.svg" alt="botao fechar" /> </a>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+                <div class="menu-wrapper">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-11 col-md-10 menu-itens offset-1 offset-md-2">
+                                <div class="menu-item"><a href="#inicio" onclick="window.closeSidePanel()" data-i18n="menu:homePage"></a></div>
+                                <div class="menu-item"><a href="#quem-somos" onclick="window.closeSidePanel()" data-i18n="menu:aboutUs"></a></div>
+                                <div class="menu-item"><a href="#empresas" onclick="window.closeSidePanel()" data-i18n="menu:companies"></a></div>
+                                <div class="menu-item"><a href="#responsabilidade-social" onclick="window.closeSidePanel()" data-i18n="menu:socialResponsability"></a></div>
+                                <div class="menu-item"><a href="#essencia" onclick="window.closeSidePanel()" data-i18n="menu:globoCoreValues"></a></div>
+                                <div class="menu-item"><a href="#principios-editoriais" onclick="window.closeSidePanel()" data-i18n="menu:editorialPrinciples"></a></div>
+                                <div class="menu-item"><a href="https://robertomarinho.globo.com/hgg/" onclick="window.closeSidePanel()" target="_blank" data-i18n="menu:history"></a></div>
+                                <div class="menu-item"><a href="https://globoir.globo.com/" onclick="window.closeSidePanel()" target="_blank" data-i18n="menu:relationshipWithInvestors"></a></div>
+                                <div class="menu-item"><a href="javascript:void(0)" onclick="window.openSubmenu()" data-i18n="menu:workWithUs"></a></div>
+                                <div class="menu-item"><a href="#conselho-de-administracao" onclick="window.closeSidePanel()" data-i18n="menu:administrativeBoard"></a></div>
+                                <div id="documents-links">
+                                    <a id="codigoEtica" target="_blank" data-i18n="documentsLinks:codigoEtica"></a>
+                                    <a id="politicaAnticorrupcao" target="_blank" data-i18n="documentsLinks:politicaAnticorrupcao"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="submenu-wrapper" id="submenu">
+                    <div class="container">
+                        <div class="col-11 col-md-11 menu-itens offset-1 offset-md-1">
+                            <span>
+                                <div class="menu-item">
+                                    <div class="d-none d-sm-block item-marker"></div>
+                                    <a href="https://www.vempraglobo.com.br/" onclick="window.closeSidePanel()" target="_blank" data-i18n="menu:workWithUsSubmenu:globo"></a>
+                                </div>
+                            </span>
+                            <div class="menu-item">
+                                <div class="d-none d-sm-block item-marker"></div>
+                                <a href="http://www.vagas.com.br/editoraglobo" onclick="window.closeSidePanel()" target="_blank" data-i18n="menu:workWithUsSubmenu:editoraGlobo"></a>
+                            </div>
+                            <div class="menu-item">
+                                <div class="d-none d-sm-block item-marker"></div>
+                                <a href="http://www.vagas.com.br/sgr" onclick="window.closeSidePanel()" target="_blank" data-i18n="menu:workWithUsSubmenu:sgr"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="d-none d-xl-block desktop-wrapper">
+                <div class="overlay"></div>
+                <video id="background-video-desktop" playsinline="playsinline" controls autoplay muted loop type="video/mp4"></video>
+            </div>
+            <div class="d-xl-none h-100 mobile-wrapper">
+                <div class="container">
+                    <div class="d-flex text-left">
+                        <div class="text-white w-100">
+                            <div class="video-text-wrapper"><p data-i18n="headline:main"></p></div>
+                            <video playsinline="playsinline" id="background-video-mobile" controls type="video/mp4"></video>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="news-wrapper">
+            <div class="container mobile-bg">
+                <div class="row">
+                    <div class="col-xl-12 news-content-wrapper">
+                        <div class="news-items">
+                            <div class="news-item news-principal row">
+                                <div class="col-3 col-xl-2"><div class="news-principal-marker"></div></div>
+                                <div class="col-8 col-xl-9 offset-1 offset-xl-1">
+                                    <a href="https://gshow.globo.com/podcast/noticia/audioday-2021-globo-amplia-presenca-no-mercado-de-audio-com-podcasts-originais.ghtml" target="_blank">
+                                        <h1 class="news-content">AudioDay 2021: Globo amplia presença no mercado de áudio com podcasts originais</h1>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="news-item news-secondary row">
+                                <div class="col-3 col-xl-2"><time class="news-date">JAN. 2021</time></div>
+                                <div class="col-1 col-xl-1"><div class="news-secondary-marker"></div></div>
+                                <div class="col-8 col-xl-9">
+                                    <a href="https://redeglobo.globo.com/novidades/noticia/globo-e-reconhecida-como-empresa-carbono-zero-em-todos-os-seus-enderecos.ghtml" target="_blank">
+                                        <h2 class="news-content">A Globo é reconhecida como empresa Carbono Zero em todos os seus endereços</h2>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="news-item news-secondary row">
+                                <div class="col-3 col-xl-2"><time class="news-date">DEZ. 2020</time></div>
+                                <div class="col-1 col-xl-1"><div class="news-secondary-marker"></div></div>
+                                <div class="col-8 col-xl-9">
+                                    <a href="https://redeglobo.globo.com/novidades/noticia/canais-globo-e-o-globoplay-participam-do-ciclo-de-palestras-virtuais-do-rio2c.ghtml" target="_blank">
+                                        <h2 class="news-content">Canais Globo e o Globoplay participam do ciclo de palestras virtuais do Rio2C</h2>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="d-none d-xl-block top-brands-wrapper">
+            <div class="container h-100">
+                <div class="row">
+                    <div class="align-self-end col-md-2 col-sm-12">
+                        <div class="top-brands-description"><p data-i18n="topBrands:title"></p></div>
+                    </div>
+                    <div class="brand-item col-md-2 col-sm-12" data-brand="globo-company">
+                        <div class="brand-title"><p class="brand-name" data-i18n="topBrands:companies:globo"></p></div>
+                        <div class="brand-image globo" data-company="globo-company-content"><img src="../../images/logo-globo.svg" alt="logo-globo" /></div>
+                    </div>
+                    <div class="brand-item col-md-2 col-sm-12" data-brand="editora-company">
+                        <div class="brand-title"><p class="brand-name" data-i18n="topBrands:companies:editoraGlobo"></p></div>
+                        <div class="brand-image editora" data-company="editora-company-content"><img src="../../images/logo-editora.png" alt="logo-editora" /></div>
+                    </div>
+                    <div class="brand-item col-md-2 col-sm-12" data-brand="sgr-company">
+                        <div class="brand-title"><p class="brand-name" data-i18n="topBrands:companies:sgr"></p></div>
+                        <div class="brand-image sgr" data-company="sgr-company-content"><img src="../../images/logo-sgr.svg" alt="logo-sgr" /></div>
+                    </div>
+                    <div class="brand-item col-md-2 col-sm-12" data-brand="ventures-company">
+                        <div class="brand-title"><p class="brand-name" data-i18n="topBrands:companies:globoVentures"></p></div>
+                        <div class="brand-image ventures" data-company="ventures-company-content"><img src="../../images/logo-ventures.png" alt="logo-ventures" /></div>
+                    </div>
+                    <div class="brand-item col-md-2 col-sm-12" data-brand="frm-company">
+                        <div class="brand-title"><p class="brand-name" data-i18n="topBrands:companies:frm"></p></div>
+                        <a href="#responsabilidade-social">
+                            <div class="brand-image frm" data-company="frm-company-content"><img src="../../images/logo-frm.svg" alt="logo-frm" /></div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <section class="who-we-are-wrapper" id="quem-somos">
+            <div class="container">
+                <div class="who-we-are-header-wrapper">
+                    <img class="d-none d-xl-block" id="who-we-are-img" src="../../images/bg-quem-somos.png" alt="quem-somos-background" />
+                    <img class="d-xl-none mobile" id="who-we-are-img" src="../../images/bg-quem-somos-mobile.png" alt="quem-somos-background" />
+                    <h2 class="who-we-are-title" data-i18n="whoWeAre:title"></h2>
+                </div>
+                <div class="row who-we-are-text-wrapper">
+                    <div class="col-lg-12 col-xl-3 title-wrapper"><p id="globo-group-title" data-i18n="whoWeAre:contentTitle"></p></div>
+                    <div class="col-lg-12 col-xl-5 description-wrapper offset-xl-2">
+                        <p data-i18n="whoWeAre:description:firstParagraph"></p>
+                        <p data-i18n="whoWeAre:description:secondParagraph"></p>
+                        <p data-i18n="whoWeAre:description:thirdParagraph"></p>
+                        <p data-i18n="whoWeAre:description:forthParagraph"></p>
+                    </div>
+                </div>
+                <div class="custom-gutter row vision-mission-wrapper">
+                    <div class="col-lg-12 col-xl-5 vision-wrapper" data-aos="fade-up">
+                        <h3 data-i18n="whoWeAre:vision:title"></h3>
+                        <p data-i18n="whoWeAre:vision:content"></p>
+                    </div>
+                    <div class="col-lg-12 col-xl-5 mission-wrapper" data-aos="fade-up">
+                        <h3 data-i18n="whoWeAre:mission:title"></h3>
+                        <p data-i18n="whoWeAre:mission:content"></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="companies-wrapper" id="empresas">
+            <div class="container">
+                <div class="companies-header-wrapper">
+                    <img id="companies-img" src="../../images/bg-companies.png" alt="empresas-background" />
+                    <h2 class="companies-title" data-i18n="companies:title"></h2>
+                </div>
+                <div class="companies-text-wrapper row">
+                    <div class="col-lg-12 col-xl-4">
+                        <h3 class="companies-text-title" data-i18n="companies:subtitle"></h3>
+                        <p class="companies-text-content" data-i18n="companies:description"></p>
+                    </div>
+                    <div class="col-xl-7 d-none d-xl-block offset-xl-1" data-aos="fade-up">
+                        <div class="companies-controller">
+                            <ol type="1">
+                                <li class="controllers" data-company="globo-company-content"></li>
+                                <li class="separator"></li>
+                                <li class="controllers" data-company="editora-company-content"></li>
+                                <li class="separator"></li>
+                                <li class="controllers" data-company="sgr-company-content"></li>
+                                <li class="separator"></li>
+                                <li class="controllers" data-company="ventures-company-content"></li>
+                            </ol>
+                        </div>
+                        <div class="company-content globo" id="globo-company-content">
+                            <div class="d-flex h-100">
+                                <img id="card-close-icon" onclick="hideCompanyContent()" src="../../images/icon-card-close.svg" alt="close-icon" />
+                                <div class="col-xl-4 content-logo d-flex justify-content-center"><img src="../../images/logo-globo.svg" alt="" /></div>
+                                <div class="col-xl-8 content-text">
+                                    <p data-i18n="companies:content:globo"></p>
+                                    <a href="https://somos.globo.com/" target="_blank" data-i18n="companies:content:link"></a>
+                                    <div class="companies-related">
+                                        <img src="../../images/logos-canais_brancos_tvglobo.png" alt="" /><img src="../../images/logos-canais_brancos_globoplay.png" alt="" />
+                                        <img src="../../images/logos-canais_brancos_globo.com.png" alt="" /><img src="../../images/logos-canais_brancos_g1.png" alt="" /> <img src="../../images/logos-canais_brancos_ge.png" alt="" />
+                                        <img src="../../images/logos-canais_brancos_gshow.png" alt="" /> <img src="../../images/logos-canais_brancos_futura.png" alt="" /> <img src="../../images/logos-canais_brancos_globonews.png" alt="" />
+                                        <img src="../../images/logos-canais_brancos_gloob.png" alt="" /><img src="../../images/logos-canais_brancos_gloobinho.png" alt="" /> <img src="../../images/logos-canais_brancos_gnt.png" alt="" />
+                                        <img src="../../images/logos-canais_brancos_multishow.png" alt="" /> <img src="../../images/logos-canais_brancos_sportv.png" alt="" /><img src="../../images/logos-canais_brancos_vivia.png" alt="" />
+                                        <img src="../../images/logos-canais_brancos_bis.png" alt="" /> <img src="../../images/logos-canais_brancos_off.png" alt="" /> <img src="../../images/logos-canais_brancos_cartola fc.png" alt="" />
+                                        <img src="../../images/logos-canais_brancos_combate.png" alt="" /> <img src="../../images/logos-canais_brancos_mais na tela.png" alt="" />
+                                        <img src="../../images/logos-canais_brancos_premiere.png" alt="" /> <img src="../../images/logos-canais_brancos_canal brasil.png" alt="" />
+                                        <img src="../../images/logos-canais_brancos_megapix.png" alt="" /> <img src="../../images/logos-canais_brancos_studio universal.png" alt="" />
+                                        <img src="../../images/logos-canais_brancos_syfy.png" alt="" /><img src="../../images/logos-canais_brancos_telecine.png" alt="" />
+                                        <img src="../../images/logos-canais_brancos_universal tv.png" alt="" /><img src="../../images/logos-canais_brancos_viu hub.png" alt="" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="company-content editora" id="editora-company-content">
+                            <div class="d-flex h-100">
+                                <img id="card-close-icon" onclick="hideCompanyContent()" src="../../images/icon-card-close.svg" alt="close-icon" />
+                                <div class="col-xl-4 content-logo d-flex justify-content-center"><img src="../../images/logo-editora.png" alt="" /></div>
+                                <div class="col-xl-8 content-text">
+                                    <p data-i18n="companies:content:editoraGlobo"></p>
+                                    <a href="https://www.publicidadeeditoraglobo.com.br/" target="_blank" data-i18n="companies:content:link"></a>
+                                    <div class="companies-related"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="company-content sgr" id="sgr-company-content">
+                            <div class="d-flex h-100">
+                                <img id="card-close-icon" onclick="hideCompanyContent()" src="../../images/icon-card-close.svg" alt="close-icon" />
+                                <div class="col-xl-4 content-logo d-flex justify-content-center"><img src="../../images/logo-sgr.svg" alt="" /></div>
+                                <div class="col-xl-8 content-text"><p data-i18n="companies:content:sgr"></p><a href="https://globoradio.globo.com/" target="_blank" data-i18n="companies:content:link"></a></div>
+                            </div>
+                        </div>
+                        <div class="company-content ventures" id="ventures-company-content">
+                            <div class="d-flex h-100">
+                                <img id="card-close-icon" onclick="hideCompanyContent()" src="../../images/icon-card-close.svg" alt="close-icon" />
+                                <div class="col-xl-4 content-logo d-flex justify-content-center"><img src="../../images/logo-ventures.png" alt="" /></div>
+                                <div class="col-xl-8 content-text"><p data-i18n="companies:content:globoVentures"></p><a href="https://globoventures.globo.com/" target="_blank" data-i18n="companies:content:link"></a></div>
+                            </div>
+                        </div>
+                        <div class="companies-content">
+                            <div class="company globo" data-company="globo-company-content"><img src="../../images/logo-globo.svg" alt="globo logo" /></div>
+                            <div class="company editora-globo" data-company="editora-company-content"><img src="../../images/logo-editora.png" alt="editora globo logo" /></div>
+                            <div class="company sgr" data-company="sgr-company-content"><img src="../../images/logo-sgr.svg" alt="sgr logo" /></div>
+                            <div class="company ventures" data-company="ventures-company-content"><img src="../../images/logo-ventures.png" alt="ventures logo" /></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 d-xl-none">
+                        <div class="company-item globo" data-aos="fade-up">
+                            <img src="../../images/logo-globo.svg" alt="" />
+                            <p data-i18n="companies:content:globo"></p>
+                            <a href="https://somos.globo.com/" target="_blank" data-i18n="companies:content:link"></a>
+                        </div>
+                        <div class="company-item editora" data-aos="fade-up">
+                            <img src="../../images/logo-editora.png" alt="" />
+                            <p data-i18n="companies:content:editoraGlobo"></p>
+                            <a href="https://www.publicidadeeditoraglobo.com.br/" target="_blank" data-i18n="companies:content:link"></a>
+                        </div>
+                        <div class="company-item sgr" data-aos="fade-up">
+                            <img src="../../images/logo-sgr.svg" alt="" />
+                            <p data-i18n="companies:content:sgr"></p>
+                            <a style="color:#ffffff" href="https://globoradio.globo.com/" target="_blank" data-i18n="companies:content:link"></a>
+                        </div>
+                        <div class="company-item ventures" data-aos="fade-up">
+                            <img src="../../images/logo-ventures.png" alt="" />
+                            <p data-i18n="companies:content:globoVentures"></p>
+                            <a href="https://globoventures.globo.com/" target="_blank" data-i18n="companies:content:link"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <script>
+            function hideCompanyContent(e) {
+                var t,
+                    n = document.querySelector(".companies-content");
+                let a = (t = e ? e.target : window.event.target).parentElement.parentElement,
+                    i = t.nextElementSibling.nextElementSibling;
+                (a.style.marginLeft = "160px"),
+                    (a.style.opacity = 0),
+                    setTimeout(() => {
+                        i.scroll(0, 0),
+                            a.classList.remove("is-visible"),
+                            n.classList.remove("d-none"),
+                            setTimeout(() => {
+                                (n.style.marginLeft = "80px"), (n.style.opacity = 1);
+                            }, 50);
+                    }, 200);
+            }
+            !(function (e, t, n, a, i, o, s) {
+                (e.GoogleAnalyticsObject = i),
+                    (e.ga =
+                        e.ga ||
+                        function () {
+                            (e.ga.q = e.ga.q || []).push(arguments);
+                        }),
+                    (e.ga.l = 1 * new Date()),
+                    (o = t.createElement(n)),
+                    (s = t.getElementsByTagName(n)[0]),
+                    (o.async = 1),
+                    (o.src = "https://www.google-analytics.com/analytics.js"),
+                    s.parentNode.insertBefore(o, s);
+            })(window, document, "script", 0, "ga"),
+                ga("create", "UA-251896-78", "auto"),
+                ga("send", "pageview");
+        </script>
+        <section class="social-responsability-wrapper" id="responsabilidade-social">
+            <div class="container" data-aos="fade-up">
+                <div class="social-responsability-header-wrapper">
+                    <div class="social-responsability-title-wrapper">
+                        <h2 class="social-responsability-title" data-i18n="socialResponsability:title"></h2>
+                        <p class="social-responsability-subtitle w-50" data-i18n="socialResponsability:subtitle"></p>
+                    </div>
+                </div>
+                <div class="social-responsability-points-wrapper">
+                    <div class="row social-responsability-points-item">
+                        <div class="col-xl-3 d-none d-xl-block"></div>
+                        <div class="col-lg-12 col-xl-3 d-flex social-border-top-desktop social-border-top-mobile social-padding-lateral-zero">
+                            <span class="social-responsability-points-item--number">01</span>
+                            <dd class="social-responsability-points-item--title" data-i18n="socialResponsability:sections:majorIssues:title"></dd>
+                        </div>
+                        <div class="col-lg-12 col-xl-6 social-border-top-desktop"><p class="social-responsability-points-item--description" data-i18n="socialResponsability:sections:majorIssues:content"></p></div>
+                    </div>
+                    <div class="row social-responsability-points-item">
+                        <div class="col-xl-3 d-none d-xl-block"></div>
+                        <div class="col-lg-12 col-xl-3 d-flex social-border-top-desktop social-border-top-mobile social-padding-lateral-zero">
+                            <span class="social-responsability-points-item--number">02</span>
+                            <dd class="social-responsability-points-item--title" data-i18n="socialResponsability:sections:presenceMidia:title"></dd>
+                        </div>
+                        <div class="col-lg-12 col-xl-6 social-border-top-desktop"><p class="social-responsability-points-item--description" data-i18n="socialResponsability:sections:presenceMidia:content"></p></div>
+                    </div>
+                    <div class="row social-responsability-points-item">
+                        <div class="col-xl-3 d-none d-xl-block"></div>
+                        <div class="col-lg-12 col-xl-3 d-flex social-border-top-desktop social-border-top-mobile social-padding-lateral-zero">
+                            <span class="social-responsability-points-item--number">03</span>
+                            <dd class="social-responsability-points-item--title" data-i18n="socialResponsability:sections:inFavorOfEducation:title"></dd>
+                        </div>
+                        <div class="col-lg-12 col-xl-6 social-border-top-desktop">
+                            <p class="social-responsability-points-item--description" data-i18n="socialResponsability:sections:inFavorOfEducation:content"></p>
+                            <a class="social-responsability-points-item--link" href="https://frm.org.br/" target="_blank" data-i18n="socialResponsability:sections:inFavorOfEducation:visitUs"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="essence-wrapper" id="essencia">
+            <div class="container">
+                <div class="essence-header-wrapper">
+                    <img class="d-none d-xl-block" id="essence-img" src="../../images/bg-essencia.png" alt="essencia-background" />
+                    <img class="d-xl-none mobile" id="essence-img" src="../../images/bg-essencia-mobile.png" alt="essencia-background" />
+                    <h2 class="essence-title" data-i18n="essence:title"></h2>
+                </div>
+                <div class="row essence-text-wrapper">
+                    <!--<div class="col-lg-12 col-xl-5">
+                        <p data-i18n="essence:contentSubtitle"></p>
+                    </div>
+                    <div class="col-xl-2 d-none d-xl-block"></div>
+                    <div class="col-lg-12 col-xl-3">
+                        <h3 data-i18n="essence:contentSecondSubtitle"></h3>
+                        <a data-i18n="essence:contentSecondSubtitleLink" href="javascript:void(0)" onclick="window.openEssenceVideoPanel()"></a>                  
+                    </div>
+                    <div class="col-xl-2 d-none d-xl-block"></div>-->
+                    <div class="col-lg-12 col-xl-4">
+                        <h3 data-i18n="essence:contentSecondSubtitle"></h3>
+                        <a id="essence-link" data-i18n="essence:contentSecondSubtitleLink" href="javascript:void(0)" onclick="window.openEssenceVideoPanel()"></a>                  
+                    </div>
+                    <div class="col-xl-8 d-none d-xl-block"></div>
+                </div>
+                <!--<div class="row essence-highlight">
+                    <div class="col-lg-12 col-xl-10">
+                        <img src="images/graph-circle-red.png"/>
+                        <p data-i18n="essence:contentHighlight"></p>
+                    </div>
+                    <div class="col-xl-2 d-none d-xl-block"></div>
+                </div>-->
+                <div class="row essence-topics-row">
+                    <div class="col-lg-12 col-xl-3" data-aos="fade-up">
+                        <img src="../../images/essence-paixao.png"/>
+                        <h3 data-i18n="essence:PassionTitle"></h3>
+                        <p data-i18n="essence:PassionParagraph"></p>
+                    </div>
+                    <div class="col-lg-12 col-xl-3" data-aos="fade-up">
+                        <img src="../../images/essence-brasilidade.png"/>
+                        <h3 data-i18n="essence:BrazilTitle"></h3>
+                        <p data-i18n="essence:BrazilSubtitle"></p>
+                    </div>
+                    <div class="col-lg-12 col-xl-3" data-aos="fade-up">
+                        <img src="../../images/essence-atitude-otimista.png"/>
+                        <h3 data-i18n="essence:OptimismTitle"></h3>
+                        <p data-i18n="essence:OptimismSubtitle"></p>
+                    </div>
+                    <div class="col-lg-12 col-xl-3" data-aos="fade-up">
+                        <img src="../../images/essence-talento-lideranca.png"/>
+                        <h3 data-i18n="essence:TalentTitle"></h3>
+                        <p data-i18n="essence:TalentSubtitle"></p>
+                    </div>
+                </div>
+                <div class="row essence-topics-row">
+                    <div class="col-lg-12 col-xl-3" data-aos="fade-up">
+                        <img src="../../images/essence-diversidade.png"/>
+                        <h3 data-i18n="essence:RespectTitle"></h3>
+                        <p data-i18n="essence:RespectSubtitle"></p>
+                    </div>
+                    <div class="col-lg-12 col-xl-3" data-aos="fade-up">
+                        <img src="../../images/essence-qualidade-inovacao.png"/>
+                        <h3 data-i18n="essence:QualityTitle"></h3>
+                        <p data-i18n="essence:QualitySubtitle"></p>
+                    </div>
+                    <div class="col-lg-12 col-xl-3" data-aos="fade-up">
+                        <img src="../../images/essence-estetica.png"/>
+                        <h3 data-i18n="essence:AestheticsTitle"></h3>
+                        <p data-i18n="essence:AestheticsSubtitle"></p>
+                    </div>
+                    <div class="col-lg-12 col-xl-3" data-aos="fade-up">
+                        <img src="../../images/essence-crescer-juntos.png"/>
+                        <h3 data-i18n="essence:GrowTogetherTitle"></h3>
+                        <p data-i18n="essence:GrowTogetherSubtitle"></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div id="essence-video-panel" class="essence-video-wrapper">
+            <div class="navbar-wrapper">
+                <div class="container">
+                    <nav class="navbar">
+                        <div class="logo-wrapper">
+                            <a href=""> <img id="logo-company" src="../../images/logo_grupo_globo_branco.svg" alt="logo" /> </a>
+                        </div>
+                        <div class="close-icon menu-icon">
+                            <a href="javascript:void(0)" class="icon" onclick="window.closeEssenceVideoPanel()"> <img id="logo-menu" src="../../images/menu-fechar.svg" alt="botao fechar" /> </a>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <div class="essence-panel-wrapper">                
+                            <video id="video-essence" controls >
+                                <source src="videos/essence-video-pt-BR.mp4" type="video/mp4">
+                            </video>     
+            </div>
+        </div>
+        <section class="editorial-principles-wrapper" id="principios-editoriais">
+            <div class="container" data-aos="fade-up">
+                <div class="editorial-principles-header-wrapper">
+                    <div class="d-none d-xl-block editorial-principles-header-bg"></div>
+                    <div class="editorial-principles-title-wrapper"><h2 class="editorial-principles-title" data-i18n="editorialPrinciples:title"></h2></div>
+                    <div class="d-none d-xl-block editorial-principles-header-little-bg"></div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 editorial-principles-content-wrapper">
+                        <p data-i18n="editorialPrinciples:content:firstParagraph"></p>
+                        <p data-i18n="editorialPrinciples:content:secondParagraph"></p>
+                        <p data-i18n="editorialPrinciples:content:thirdParagraph"></p>
+                        <p data-i18n="editorialPrinciples:content:forthParagraph"></p>
+                        <p data-i18n="editorialPrinciples:content:fifthParagraph"></p>
+                        <p data-i18n="editorialPrinciples:content:date"></p>
+                        <p>
+                            Roberto Irineu Marinho <br />
+                            João Roberto Marinho <br />
+                            José Roberto Marinho
+                        </p>
+                        <a href="http://g1.globo.com/principios-editoriais-do-grupo-globo.html" class="d-xl-none editorial-principles-file" target="_blank" data-i18n="editorialPrinciples:editorialPrinciplesLink"></a>
+                    </div>
+                    <div class="col-lg-5 editorial-principles-itens-wrapper offset-lg-1">
+                        <div class="principle-item" data-principle-item="definicaoJornalismo">
+                            <div class="principle-item-description-wrapper">
+                                <span class="principle-item--number">01</span>
+                                <h5 class="principle-item--title" data-i18n="editorialPrinciples:topics:definitionOfJournalism"></h5>
+                            </div>
+                            <span class="principle-item--button">
+                                <svg width="25" height="25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <line x1="13" x2="13" y2="24" stroke="#1857EA" stroke-width="2" />
+                                    <line y1="-1" x2="24" y2="-1" transform="matrix(-1 0 0 1 24.5 12.5)" stroke="#1857EA" stroke-width="2" />
+                                </svg>
+                            </span>
+                        </div>
+                        <div class="principle-item" data-principle-item="atributosInfo">
+                            <div class="principle-item-description-wrapper">
+                                <span class="principle-item--number">02</span>
+                                <h5 class="principle-item--title" data-i18n="editorialPrinciples:topics:attributesOfQualityInformation"></h5>
+                            </div>
+                            <span class="principle-item--button">
+                                <svg width="25" height="25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <line x1="13" x2="13" y2="24" stroke="#1857EA" stroke-width="2" />
+                                    <line y1="-1" x2="24" y2="-1" transform="matrix(-1 0 0 1 24.5 12.5)" stroke="#1857EA" stroke-width="2" />
+                                </svg>
+                            </span>
+                        </div>
+                        <div class="principle-item" data-principle-item="comoProceder">
+                            <div class="principle-item-description-wrapper">
+                                <span class="principle-item--number">03</span>
+                                <h5 class="principle-item--title" data-i18n="editorialPrinciples:topics:theRelationship"></h5>
+                            </div>
+                            <span class="principle-item--button">
+                                <svg width="25" height="25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <line x1="13" x2="13" y2="24" stroke="#1857EA" stroke-width="2" />
+                                    <line y1="-1" x2="24" y2="-1" transform="matrix(-1 0 0 1 24.5 12.5)" stroke="#1857EA" stroke-width="2" />
+                                </svg>
+                            </span>
+                        </div>
+                        <div class="principle-item" data-principle-item="valores">
+                            <div class="principle-item-description-wrapper">
+                                <span class="principle-item--number">04</span>
+                                <h5 class="principle-item--title" data-i18n="editorialPrinciples:topics:corePrinciples"></h5>
+                            </div>
+                            <span class="principle-item--button">
+                                <svg width="25" height="25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <line x1="13" x2="13" y2="24" stroke="#1857EA" stroke-width="2" />
+                                    <line y1="-1" x2="24" y2="-1" transform="matrix(-1 0 0 1 24.5 12.5)" stroke="#1857EA" stroke-width="2" />
+                                </svg>
+                            </span>
+                        </div>
+                        <a href="http://g1.globo.com/principios-editoriais-do-grupo-globo.html" class="d-none d-xl-block editorial-principles-file" target="_blank" data-i18n="editorialPrinciples:editorialPrinciplesLink"></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="editorial-principles-side-panel" id="principles-sidepanel">
+            <div class="container">
+                <div class="principles-navbar"><img class="side-panel-close-button-mobile" id="sidepanel-close-button" src="../../images/menu-fechar.svg" alt="botao fechar" /></div>
+            </div>
+            <div id="content"></div>
+        </div>
+        <section class="directors-board-wrapper" id="conselho-de-administracao">
+            <div class="container directors-board-background" data-aos="fade-up">
+                <div class="directors-board-title-wrapper"><h2 class="directors-board-title w-100" data-i18n="directorsBoard:title"></h2></div>
+                <div class="directors-board-content-wrapper">
+                    <img id="bg-directors-board-desktop" class="d-none d-xl-block directors-board-image" alt="background-desktop" /> <img id="bg-directors-board-mobile" class="d-xl-none directors-board-image" alt="background-mobile" />
+                </div>
+            </div>
+        </section>
+        <footer>
+            <div class="container d-flex h-100">
+                    <a class="align-self-center" href="https://www.linkedin.com/company/organiza-es-globo/" target="_blank"> <img id="logo-linkedin" src="../../images/logo-linkedin.png" alt="linkedin-logo" /> </a>
+                    <div class="align-self-center contact-wrapper"><p>contatogrupoglobo@g.globo</p></div>
+            </div>
+        </footer>
+        <img id="scroll-arrow" src="../images/seta_scroll.svg" alt="scroll" />
+        <script src="./bundle.js"></script>
+        <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+        <script>
+            function openSidePanel() {
+                document.getElementById("sidepanel").style.left = "0";
+            }
+            function closeSidePanel() {
+                (document.getElementById("sidepanel").style.left = "100%"), document.getElementById("submenu").classList.contains("expanded") && document.getElementById("submenu").classList.remove("expanded");
+            }
+            function openSubmenu() {
+                document.getElementById("submenu").classList.add("expanded");
+            }
+            AOS.init();
+        </script>
+        <script>
+            function openEssenceVideoPanel() {
+                document.getElementById("essence-video-panel").style.left = "0";
+            }
+            function closeEssenceVideoPanel() {
+                (document.getElementById("essence-video-panel").style.left = "100%");
+            }
+            AOS.init();
+        </script>
+    </body>
+</html>
